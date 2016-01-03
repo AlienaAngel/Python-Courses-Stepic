@@ -1,5 +1,6 @@
 a = float(input())
 b = float(input())
+
 operation = input()
 
 if operation == "+":
